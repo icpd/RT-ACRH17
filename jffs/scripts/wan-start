@@ -1,0 +1,2 @@
+/bin/sh /jffs/clash/restart.sh
+/bin/sh /jffs/clash/startcron.sh
